@@ -1,0 +1,12 @@
+iphone/
+node_modules/
+android/build/
+android/.idea/
+android/env/
+android/dist/
+android/documentation/
+android/libs/*/liborg.farwayer.ti.sodium.so
+android/.classpath
+android/.project
+android/*.iml
+android/build.log
