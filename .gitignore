@@ -5,7 +5,8 @@ android/build/
 android/env/
 android/dist/sodium.jar
 android/documentation/
-android/libs/*/liborg.farwayer.ti.sodium.so
+android/libs
+android/lib
 android/.classpath
 android/.project
 android/*.iml

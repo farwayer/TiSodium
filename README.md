@@ -1,7 +1,7 @@
 # TiSodium [![Appcelerator Titanium](http://www-static.appcelerator.com/badges/titanium-git-badge-sq.png)](http://appcelerator.com/titanium/)
 
 Titanium Mobile binding to [sodium](https://github.com/jedisct1/libsodium/) crypto library based on [sodium-jni](https://github.com/JackWink/sodium-jni).
-It is realizing XSalsa20 encryption.
+It implements XSalsa20 encryption.
 
 ## Example usage
 
