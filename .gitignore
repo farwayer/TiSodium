@@ -1,9 +1,9 @@
 iphone/
 node_modules/
 android/build/
-android/.idea/
+.idea
 android/env/
-android/dist/
+android/dist/sodium.jar
 android/documentation/
 android/libs/*/liborg.farwayer.ti.sodium.so
 android/.classpath
